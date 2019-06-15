@@ -36,3 +36,8 @@ body {
 #filler {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/projects-21.jpg)center/cover no-repeat fixed;
 }
+
+#progress {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/progress-bcg.jpg)center/cover no-repeat fixed;
+}
